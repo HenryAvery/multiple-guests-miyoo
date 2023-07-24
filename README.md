@@ -5,7 +5,7 @@ Allows you have up to 5 guest profiles and round-robin/Carousel between them on 
  1. **Back up CurrentProfile and GuestProfile folders located in Saves on your SD card** (I have not had any issue with losing data however its best to be safe when messing with save folders I don't want to be responsible for anyone losing data)  
  2. Copy and paste the GuestProfile folder until you have the amount of guest profiles you would like.![Screenshot 2023-07-24 045228](https://github.com/HenryAvery/multiple-guests-miyoo/assets/13572208/1cae92d5-511b-43b8-ab1b-3494f73227c0)
 
- 3. Rename the copys to GuestProfile2, GuestProfile3 etc. Do not go above GuestProfile5 and leave the original Guest folder unchanged ![Screenshot 2023-07-24 045407](https://github.com/HenryAvery/multiple-guests-miyoo/assets/13572208/c190ab3e-cbb5-4751-8939-38e7bf26b15d)
+ 3. Rename the copys to GuestProfile2, GuestProfile3 etc. Do not go above GuestProfile5 and leave the original Guest folder unchanged.  ![Screenshot 2023-07-24 045407](https://github.com/HenryAvery/multiple-guests-miyoo/assets/13572208/c190ab3e-cbb5-4751-8939-38e7bf26b15d)
 
  4. Download and unzip the MultipleGuests.zip from the [Releases page](https://github.com/HenryAvery/multiple-guests-miyoo/releases)  
  5. Open the MultipleGuests folder and drag the App folder to the Root folder of your SD card![Screenshot 2023-07-24 050428](https://github.com/HenryAvery/multiple-guests-miyoo/assets/13572208/ba13c468-683a-4dea-b03a-8b56a7655ac9)
